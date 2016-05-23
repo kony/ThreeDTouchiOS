@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="test3dtouch" name="test3dtouch">
+    <container isflex="false" displayname="Popup" id="segTemplateMailList" type="dialog"/>
+    <container isflex="false" displayname="Form" id="frmComposeMail" type="form"/>
+    <container isflex="false" displayname="Form" id="frmDetailedMail" type="form"/>
+    <container isflex="false" displayname="Form" id="frmMailsList" type="form"/>
+    <container isflex="false" displayname="Form" id="frmReplyMail" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>
