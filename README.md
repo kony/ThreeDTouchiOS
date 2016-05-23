@@ -17,5 +17,5 @@ iPhone (Need to run on the iPhone that supports 3D touch)
  
 1. Download the project zip file.
 2. Unzip the project to any folder
-3. Import the project by into Kony Studio.
+3. Import the project into Kony Studio.
 4. Build and Run the app on iPhone that supports 3D touch (iPhone 6S supports 3D Touch).
